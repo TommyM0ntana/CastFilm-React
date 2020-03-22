@@ -1,0 +1,78 @@
+/* Door Tab */
+.tab-door-icon {
+  width: 5rem;
+  height: 5rem;
+  fill:var(--main-grey);
+  padding-top: 1rem;
+}
+
+/* Device Tab */
+.tab-icon-device {
+  width: 10rem;
+  height: 10rem;
+  fill:var(--main-grey);
+
+}
+
+
+.tab-icon-device p {
+
+
+}
+
+
+/*  Price Tab*/
+.tab-icon-price {
+  width: 5rem;
+  height: 6rem;
+  fill:var(--main-grey);
+ 
+}
+
+p {
+  font-size: 16px;
+  
+}
+
+/* .tabs {
+  padding-top: 1rem;
+} */
+
+.tab-nav-container {
+  padding: 1px;
+  display:grid;
+  justify-content:center;
+  grid-template-columns:repeat(3,1fr);
+  align-items: center;
+  grid-gap:1rem;
+  text-align:center;
+  list-style:none;
+  color: var(--main-grey);
+  box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* ⁄TABS Hover */
+ul li  {
+  padding-right:20px;
+}
+svg#icon-cancel.tab-door-icon {
+  padding-left:10px;
+}
+ul li:hover {
+  color:#fff;
+  cursor:pointer;
+  transition: 0.9s ease;
+  background:#00051F;
+  transition: all 0.9s cubic-bezier(0.25, 0.8, 0.25, 1);
+ 
+  
+}
+.devicediv{
+  padding:25px;
+}
+ 
+/* Actiove Tab */
+
+.active {
+  border-bottom: 4px solid var(--main-red);
+}

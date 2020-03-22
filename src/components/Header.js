@@ -5,6 +5,8 @@ import { NavLink, Link } from "react-router-dom";
 import { ic_play_circle_outline } from "react-icons-kit/md/ic_play_circle_outline";
 import { Icon } from "react-icons-kit";
 
+
+
 class Header extends Component {
   render() {
     return (
@@ -39,9 +41,7 @@ class Header extends Component {
     );
   }
 }
-{
-  /*<img src={logo} alt='' />*/
-}
+
 export default Header;
 
 // Header TOP
