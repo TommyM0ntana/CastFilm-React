@@ -1,0 +1,24 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <text stroke="#000" transform="matrix(3.920313330874225,0,0,19.540486007681086,-259.93068820487366,-2038.1039013672967) " font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_2" y="122.131023" x="74.589905" stroke-width="0" fill="#dd0808">C</text>
+  <path stroke="#000" id="svg_4" d="m277.5,128.453125" opacity="0.5" stroke-width="1.5" fill="#dd0808"/>
+  <path stroke="#000" id="svg_5" d="m255.999879,141.937293" opacity="0.5" stroke-width="1.5" fill="#dd0808"/>
+  <text stroke="#000" transform="matrix(3.562409397966923,0,0,15.226486260945704,-418.47947370266877,-2016.14194339753) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="29" id="svg_8" y="155.340569" x="143.242736" stroke-opacity="null" stroke-width="0" fill="#e80909">A</text>
+  <text stroke="#000" transform="rotate(-7.141937732696533 188.13059997558645,216.58497619628915) matrix(3.063251759818553,0,0,9.958436091239438,-269.049622487653,-537.3248343762306) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="39" id="svg_9" y="88.386599" x="138.405815" stroke-opacity="null" stroke-width="0" fill="#ed1010">S</text>
+  <text stroke="#000" transform="matrix(0.5681036837253117,0,0,2.22811087676605,103.76080959207223,-61.87965688184228) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="250" id="svg_10" y="196.527385" x="172.503322" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#dd0808">T</text>
+  <text stroke="#000" transform="matrix(0.41177052795718155,0,0,2.192753019677127,146.87744535695504,-9.227619146893254) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="250" id="svg_12" y="174.32951" x="197.778942" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#dd0808">F</text>
+  <text stroke="#000" transform="matrix(0.42591126590376827,0,0,1.5559326181838735,163.05316480005354,45.99819934161306) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="250" id="svg_13" y="194.810948" x="294.110755" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#dd0808">I</text>
+  <text stroke="#000" transform="rotate(-0.04973883554339409 360.0314025879295,209.9382629394114) matrix(0.43796496387969763,0,0,1.7060623958420462,157.64390842320742,-50.8227157929191) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="250" id="svg_14" y="234.248" x="385.758317" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#dd0808">L</text>
+  <text stroke="#000" transform="matrix(0.46580978655543576,0,0,2.003315806849176,121.85139422689717,-76.12887358187824) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="250" id="svg_15" y="216.266584" x="574.723461" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#dd0808">M</text>
+ </g>
+</svg>
