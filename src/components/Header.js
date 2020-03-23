@@ -4,8 +4,7 @@ import styled from "styled-components";
 import { NavLink, Link } from "react-router-dom";
 import { ic_play_circle_outline } from "react-icons-kit/md/ic_play_circle_outline";
 import { Icon } from "react-icons-kit";
-
-
+import { Button } from "../components/Button";
 
 class Header extends Component {
   render() {
@@ -23,7 +22,7 @@ class Header extends Component {
             Interactive tv applications platform group from Infinity, Amazon
             Prime Video, Sky to Neflix.
           </h2>
-          <Link className='btn-main'>
+          <Button className='btn-main' primary>
             <span className='r'> Try it now</span>
             <Icon
               className='icon'
@@ -35,7 +34,7 @@ class Header extends Component {
               }}
               icon={ic_play_circle_outline}
             />
-          </Link>
+          </Button>
         </div>
       </HeaderComponent>
     );

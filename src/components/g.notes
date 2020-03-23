@@ -1,0 +1,24 @@
+
+const HeaderComponent = styled.div`
+  .signIn-btn {
+    color: #ffffff;
+    text-decoration: none;
+    right: 0;
+    margin: 2.125rem 5% ;
+    padding: 0.4375rem 1.0625rem;
+    font-wight: 700;
+    line-height: normal;
+    border-radius: 0.1875rem;
+    font-size: 1rem;
+    background-color: transparent;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.9);
+    position: absolute;
+    translate: transform(-50%, -50%);
+    cursor: pointer;
+    transition: background 0.2s ease-in; 
+    &:hover {
+      background: #d30913;
+      opacity:0.9;
+  
+    }   
+`;
