@@ -13,9 +13,6 @@
   fill: var(--main-grey);
 }
 
-.tab-icon-device p {
-}
-
 /*  Price Tab*/
 .tab-icon-price {
   width: 5rem;
@@ -84,14 +81,14 @@ ul li:hover {
 .tab-selected svg path {
   fill: #fff;
 }
-
+/* tab one contnt */
 .tab-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
   align-items: center;
   font-size: 20px;
-  padding: 1rem;
+  padding: 52px;
 }
 
 .img {
@@ -100,4 +97,47 @@ ul li:hover {
 
 .img.img {
   margin-top: -20px;
+}
+
+/* TABCONTENT TWO */
+/* .maintab {
+} */
+
+.maintop {
+  padding: 50px;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  font-size: 200px;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 2rem 0rem 2rem;
+  /* margin-left: 100px; */
+}
+.mainp {
+  grid-column: 1/8;
+  font-size: 20px;
+  margin: 0px 0px 0px 70px;
+}
+
+.btntop {
+  grid-column: 9/ 12;
+}
+
+.mainbottom {
+  padding: 40px 120px 10px 120px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  grid-gap: 3rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 17px;
+  margin: 0px 5px;
+}
+
+p {
+  font-size: 14px;
+  color: gray;
 }
