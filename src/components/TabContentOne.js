@@ -16,7 +16,7 @@ class TabContentOne extends Component {
               You can unsubscribe whenever you want if you are not satisfy for
               some of the services.
               <br />
-              <Button style={{ opacity: "0.5" }}>
+              <Button style={{ opacity: "0.7", marginTop: "60px" }}>
                 <span>Try it now</span>
               </Button>
             </div>
