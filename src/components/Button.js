@@ -1,4 +1,7 @@
 import styled from "styled-components";
+import { generateMedia } from "styled-media-query";
+import media from "styled-media-query";
+import "../css/Header.css";
 
 export const Button = styled.button`
   display: inline-block;
@@ -24,8 +27,16 @@ export const Button = styled.button`
     margin-top: 0px;
     margin: ${props => (props.primary ? "0px 210px" : "40px 30px 5px 5px")};
     padding: ${props => (props.primary ? "1.8rem" : "22px 40px")};
-  }
+  
+    
 `;
+
+const customMedia = generateMedia({
+  lgDesktop: "1350px",
+  mdDesktop: "1150px",
+  tablet: "960px",
+  mobile: "740px"
+});
 
 // display: inline-block;
 //   background-color: transparent;
