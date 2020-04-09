@@ -20,12 +20,12 @@ export const Button = styled.button`
   transition: all 0.9s cubic-bezier(0.25, 0.8, 0.25, 1);
 
   &:hover {
-    font-size: ${props => (props.primary ? "2.6rem" : "1rem")};
+    font-size: ${props => (props.primary ? "2.4rem" : "1rem")};
     color: #fff;
     transition: 0.9s ease;
     cursor: pointer;
     margin-top: 0px;
-    margin: ${props => (props.primary ? "0px 210px" : "40px 30px 5px 5px")};
+    margin: ${props => (props.primary ? "0px 240px" : "40px 30px 5px 5px")};
     padding: ${props => (props.primary ? "1.8rem" : "22px 40px")};
   
     
